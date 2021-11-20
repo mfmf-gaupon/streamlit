@@ -1,4 +1,4 @@
 tensorflow==2.4.1
 matplotlib==3.5.0
 gym==0.21.0
-free-mujoco-py
+free-mujoco-py==2.1.6
